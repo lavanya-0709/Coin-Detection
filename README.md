@@ -32,3 +32,6 @@ Apply erosion to smooth the coin boundaries.
 Use SimpleBlobDetector to identify circular coins.
 Count and display the number of coins detected.
 Draw circles around detected coins and show the final output.
+
+## Result
+The experiment successfully detects and counts 9 coins from the given image using morphological operators and blob detection techniques in OpenCV.
